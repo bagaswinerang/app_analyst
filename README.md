@@ -2,7 +2,7 @@
 
 Streamlit app untuk analisis data penjualan.  
 
-👉 [Buka Aplikasi di Streamlit](https://bagaswinerang-app-analyst.streamlit.app)
+👉 [Buka Aplikasi di Streamlit](https://app-analyst.streamlit.app/)
 
 ## 🚀 Cara Jalankan Lokal
 ```bash
