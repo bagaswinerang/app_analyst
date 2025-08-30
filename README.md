@@ -12,4 +12,4 @@ Streamlit app untuk analisis data penjualan.
 git clone https://github.com/bagaswinerang/app_analyst.git
 cd app_analyst
 pip install -r requirements.txt
-streamlit run main.py
+streamlit run app_analyst.py
