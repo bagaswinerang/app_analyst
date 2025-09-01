@@ -10,7 +10,7 @@ Buka aplikasi streamlit di sini.
 ## 🎥 Demo Video
 Lihat demo presentasi di sini:  
 
-[![Watch the video](https://img.shields.io/badge/🎥-Demo-blue)](https://www.canva.com/design/DAGxi1Rr1Co/1Ve33TxXj3LMS05eaR_tIQ/view?utm_content=DAGxi1Rr1Co&utm_campaign=designshare&utm_medium=link2&utm_source=chatgpt.com&utlId=h0c315a9de1#9)
+[![Watch the video](https://img.shields.io/badge/🎥-Demo-blue)](https://www.canva.com/design/DAGxusOnkW4/uY50sNN3XiIAIPD585HfsA/view?utm_content=DAGxusOnkW4&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hc11f5d3116)
 
 ## 🚀 Cara Jalankan Lokal
 ```bash
