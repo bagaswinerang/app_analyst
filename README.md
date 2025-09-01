@@ -2,7 +2,7 @@
 
 Streamlit app untuk analisis data penjualan.  
 
-👉 [Buka Aplikasi di Streamlit](https://app-analyst.streamlit.app/)
+👉 [Buka Aplikasi di Streamlit][![Open in Streamlit](https://img.shields.io/badge/🚀-Streamlit_App-brightgreen)](https://app-analyst.streamlit.app/)
 
 ## 🎥 Demo Video
 Lihat demo presentasi di sini:  
