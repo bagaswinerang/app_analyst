@@ -5,7 +5,8 @@ Streamlit app untuk analisis data penjualan.
 👉 [Buka Aplikasi di Streamlit](https://app-analyst.streamlit.app/)
 
 ## 🎥 Demo Video
-[Klik untuk menonton demo](https://github.com/bagaswinerang/app_analyst/releases/tag/v1.0)
+Lihat demo presentasi di sini:  
+[![Watch the video](https://img.shields.io/badge/🎥-Demo-blue)](https://www.canva.com/design/DAGxi1Rr1Co/1Ve33TxXj3LMS05eaR_tIQ/view?utm_content=DAGxi1Rr1Co&utm_campaign=designshare&utm_medium=link2&utm_source=chatgpt.com&utlId=h0c315a9de1#9)
 
 ## 🚀 Cara Jalankan Lokal
 ```bash
